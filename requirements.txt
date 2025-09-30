@@ -1,0 +1,13 @@
+filetype
+python-magic
+chardet
+pillow
+opencv-python
+PyPDF2
+pdfplumber
+python-docx
+openpyxl
+pandas
+ffmpeg-python
+moviepy
+pydub
